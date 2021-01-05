@@ -9,7 +9,7 @@
     "start": "serve --single"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "mqtt": "^3.0.0",
     "serve": "^11.1.0",
